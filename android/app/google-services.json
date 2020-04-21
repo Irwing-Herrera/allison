@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267418992330",
+    "firebase_url": "https://peliculas-82930.firebaseio.com",
+    "project_id": "peliculas-82930",
+    "storage_bucket": "peliculas-82930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267418992330:android:ad4e319cf7329fc59efe33",
+        "android_client_info": {
+          "package_name": "com.example.flu_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267418992330-159obqbmp43tcpjg8uncfghp9f72rmoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjgG-ucZALGdHBv5nOuN1LRMrVUWnt3jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267418992330-159obqbmp43tcpjg8uncfghp9f72rmoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
